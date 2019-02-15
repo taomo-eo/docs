@@ -2,9 +2,11 @@
 
 As NEO plans to [accelerate its decentralization](https://neo.org/blog/details/4125) in 2019 and beyond, there will be a few voting cycles on the NEO network that anyone who holds NEO can participate. This write-up compiles the relevant information that a NEO holder should know if they want to participate in voting. 
 
+
+
 ### How Many Votes Do You Have
 
-Any node that holds NEO can vote for an unlimited number of candidates. The number of votes corresponds to the number of NEO held in the account. If NEO balance changes during the voting cycle, the candidate's votes will simultaneously be updated to reflect the change in balance.  
+Any node that holds NEO can vote for an unlimited number of candidates. The number of votes corresponds to the number of NEO held in the account. If NEO balance changes, the candidate's votes will simultaneously be updated to reflect the change in balance.  
 
 For Example, if there are 100 NEO in an account, and the account voted for 3 candidates, each candidate receives 100 votes. If NEO in the account is spent after the vote, the candidates' votes will simultaneously be decreased to the current NEO balance.
 
@@ -52,7 +54,7 @@ Currently, the only way to vote is through the [NEO-GUI](http://docs.neo.org/en-
 3. In the Candidates field, enter the *Public Key*(found on the consensus node page) of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
-   
+
    *Example: giving three candidates each 100000000 votes.*
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. Again, you can check the number of votes for each candidate on the [consensus node page](https://neo.org/consensus). 
