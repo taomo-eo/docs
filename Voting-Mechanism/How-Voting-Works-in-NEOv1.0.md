@@ -1,6 +1,6 @@
 ## How Voting Works in NEO
 
-As NEO plans to [accelerate its decentralization](https://neo.org/blog/details/4125) in 2019 and beyond, more and more community-run Consensus Node candidates will be available for NEO holders to vote for. This write-up is an introduction to the concepts and procedures involved in electing and voting for consensus nodes in the NEO network.
+As NEO plans to [accelerate its decentralization](https://neo.org/blog/details/4125) in 2019 and beyond, more and more community-run Consensus Node candidates will be available for NEO holders to vote for. This write-up is an introduction to the concepts and procedures involved in election and voting for consensus nodes in the NEO network.
 
 ### 1. Overview
 
