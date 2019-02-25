@@ -56,9 +56,9 @@ It is worth noting that this calculation is carried out each time NEO produces a
 
 Given the mechanism described above, each vote contains two important decisions: 
 
-1) *How many* candidates you are going to vote for. This influences the number Consensus Nodes that are going to be elected. 
+1) *How many* candidates you are going to vote for. This affects ***N***, the number Consensus Nodes that are going to be elected. 
 
-2) *Which* candidates you are going to vote for. This influences the vote tally of the candidate nodes that you are voting for. 
+2) *Which* candidates you are going to vote for. This influences the vote tally of the candidate nodes that you have voted for, and updates whenever the balance of the voting address changes. 
 
 ### 4. Where to Vote 
 
