@@ -4,7 +4,7 @@ As NEO plans to [accelerate its decentralization](https://neo.org/blog/details/4
 
 ### 1. Overview
 
-Consensus Nodes are the block producers, or 'bookkeepers' in the NEO network. Therefore, the management of the network is determined by how the network selects its Consensus Nodes. ***Every NEO you hold is a share of the right to manage the network***, because NEO holders can decide what nodes become Consensus Nodes in these two ways:
+Consensus Nodes are the block producers, or 'bookkeepers' in the NEO network. Therefore, the governance model of the network is determined by how the network selects its Consensus Nodes. ***Every NEO you hold is a share of the right to manage the network***, because NEO holders can decide what nodes become Consensus Nodes in these two ways:
 
 1. Anyone can register to become a candidate for a Consensus Node by paying a system fee of 1000 GAS.
 2. Anyone can vote for any number of candidates. The number of votes they have correspond to the number of NEO they hold in real time.
